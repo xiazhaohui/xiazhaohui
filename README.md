@@ -1,23 +1,22 @@
-### Hi there 👋
+<p>-：抓鸭子</p>
+<p>-：抓几只</p>
+<p>-：抓100只</p>
+<p>-：嘎～</p>
+<p>-：嘎～</p>
+<p>-：嘎～</p>
+<br/>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=SillyBoyXZH&show_icons=true&locale=en" alt="SillyBoyXZH" />
+</div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SillyBoyXZH&show_icons=true&locale=en&layout=compact" alt="SillyBoyXZH" /></p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SillyBoyXZH&show_icons=true&locale=en&layout=compact" alt="SillyBoyXZH" />
+</div>
 
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SillyBoyXZH&show_icons=true&locale=en" alt="SillyBoyXZH" />
-</p>
-
-<p>
+<div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SillyBoyXZH&" alt="SillyBoyXZH" />
-</p>
+</div>
