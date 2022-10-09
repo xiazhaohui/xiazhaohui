@@ -2,7 +2,7 @@
  * @Author: xiazhaohui xiazhaohui@yiwise.com
  * @Date: 2022-10-08 17:30:45
  * @LastEditors: xiazhaohui xiazhaohui@yiwise.com
- * @LastEditTime: 2022-10-08 17:58:47
+ * @LastEditTime: 2022-10-09 09:58:16
  * @FilePath: /xiazhaohui/README.md
 -->
 
@@ -45,3 +45,7 @@
 | 《人生海海》 | 麦家 | 2022-09-30 | 33 |
 | 《曾国藩传》 | 张宏杰 | 2022-10-04 | 34 |
 | 《知行合一王阳明（1472-1529）》 | 度阴山 | 2022-10-06 | 35 |
+
+### :books:
+
+<a href="./readingLog/2021.md">2021年阅读记录</a>
