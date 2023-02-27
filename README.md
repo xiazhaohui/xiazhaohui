@@ -2,7 +2,7 @@
  * @Author: xiazhaohui xiazhaohui@yiwise.com
  * @Date: 2022-10-08 17:30:45
  * @LastEditors: 夏朝辉 lesslessmore@163.com
- * @LastEditTime: 2023-02-24 11:38:57
+ * @LastEditTime: 2023-02-27 14:04:41
  * @FilePath: /xiazhaohui/README.md
 -->
 
@@ -17,6 +17,7 @@
 | 《隐身的串门儿：读书随笔》 | 杨绛 | 三联书店 | ⭐️⭐️ | 2023-02-08 | 5 |
 | 《杂忆与杂写：一九九二-二〇一三》 | 杨绛 | 三联书店 |  | 2023-02-19 | 6 |
 | 《杂忆与杂写：一九三三-一九九一》 | 杨绛 | 三联书店 |  | 2023-02-23 | 7 |
+| 《将饮茶》 | 杨绛 | 三联书店 |  | 2023-02-26 | 8 |
 
 ### :books:
 
