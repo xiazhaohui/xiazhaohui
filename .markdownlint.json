@@ -5,6 +5,6 @@
     "punctuation": []
   },
   "MD033": {
-    "allowed_elements": [ "div", "span", "a", "img", "br" ]
+    "allowed_elements": [ "div", "span", "a", "img", "br", "center", "p" ]
   }
 }
