@@ -2,7 +2,7 @@
  * @Author: xiazhaohui xiazhaohui@yiwise.com
  * @Date: 2022-10-08 17:30:45
  * @LastEditors: 夏朝辉 lesslessmore@163.com
- * @LastEditTime: 2023-05-30 17:39:39
+ * @LastEditTime: 2023-05-30 17:50:49
  * @FilePath: /xiazhaohui/README.md
 -->
 
@@ -34,7 +34,7 @@
 
 - <a href="./readingLog/2022.md">2022年阅读记录</a>
 - <a href="./readingLog/2021.md">2021年阅读记录</a>
-- <a href='https://xiachaohui.com/library' target='_blank'>Notion书架</a>
+- <a href='https://www.notion.so/xiazhaohui/9773693f069441dbab015523f9e402ed?v=ef6228f4953646e5a0f098fbfd1d8427' target='_blank'>Notion书架</a>
 
 #### 🪜
 
