@@ -45,6 +45,7 @@
 # 笔记
 
 - <a href="./notes/夏商周.md">夏商周</a>
+- <a href="./notes/苏东坡.md">苏东坡</a>
 
 # Plan
 
