@@ -5,7 +5,7 @@
     "punctuation": []
   },
   "MD033": {
-    "allowed_elements": [ "div", "span", "a", "img", "br", "center", "p", "h1" ]
+    "allowed_elements": [ "div", "span", "a", "img", "br", "center", "p", "h1", "h2", "h3", "h4", "h5", "h6"]
   },
   "MD041": false
 }
