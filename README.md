@@ -2,7 +2,7 @@
  * @Author: xiazhaohui xiazhaohui@yiwise.com
  * @Date: 2022-10-08 17:30:45
  * @LastEditors: 夏朝辉 lesslessmore@163.com
- * @LastEditTime: 2023-06-27 16:52:37
+ * @LastEditTime: 2023-07-14 11:03:21
  * @FilePath: /xiazhaohui/README.md
 -->
 
@@ -48,6 +48,7 @@
 
 - <a href="./notes/夏商周.md">夏商周</a>
 - <a href="./notes/苏东坡.md">苏东坡</a>
+- <a href="./notes/王阳明.md">王阳明</a>
 
 # Plan
 
