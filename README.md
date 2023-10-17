@@ -2,7 +2,7 @@
  * @Author: xiazhaohui xiazhaohui@yiwise.com
  * @Date: 2022-10-08 17:30:45
  * @LastEditors: 夏朝辉 lesslessmore@163.com
- * @LastEditTime: 2023-10-17 10:46:38
+ * @LastEditTime: 2023-10-17 18:10:20
  * @FilePath: /xiazhaohui/README.md
 -->
 
@@ -53,7 +53,7 @@
 
 #### 🪜
 
-- <a href='https://xiachaohui.com/library' target='_blank'>个人网站</a>
+- <a href='https://xiazhaohui.com/library' target='_blank'>个人网站</a>
 
 # 笔记
 
