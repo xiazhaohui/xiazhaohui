@@ -2,7 +2,7 @@
  * @Author: xiazhaohui xiazhaohui@yiwise.com
  * @Date: 2022-10-08 17:30:45
  * @LastEditors: 夏朝辉 lesslessmore@163.com
- * @LastEditTime: 2023-12-26 09:16:06
+ * @LastEditTime: 2023-12-29 14:59:21
  * @FilePath: /xiazhaohui/README.md
 -->
 
@@ -58,6 +58,7 @@
 | 《记一忘三二》 | 李娟 | 花城出版社 | | 2023-12-05 | 40 |
 | 《走夜路请放声歌唱》 | 李娟 | 新星出版社 | | 2023-12-13 | 41 |
 | 《阿勒泰的角落》 | 李娟 | 新星出版社 | | 2023-12-17 | 42 |
+| 《冬牧场》 | 李娟 | 花城出版社 | | 2023-12-28 | 43 |
 
 ### :books:
 
