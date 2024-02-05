@@ -37,3 +37,4 @@
 # Plan
 
 - <a href="./plans/plan2023.md">2023年</a>
+- <a href="./plans/plan2024.md">2024年</a>
