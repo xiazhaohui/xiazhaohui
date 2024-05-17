@@ -96,6 +96,7 @@
 - <a href="./notes/夏商周.md">夏商周</a>
 - <a href="./notes/苏东坡.md">苏东坡</a>
 - <a href="./notes/王阳明.md">王阳明</a>
+- <a href="./notes/办公室日记.md">办公室日记</a>
 
 # Plan
 
