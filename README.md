@@ -69,6 +69,7 @@
 
 # :books:
 
+- <a href="./readingLog/2025.md">2025年阅读记录</a>
 - <a href="./readingLog/2024.md">2024年阅读记录</a>
 - <a href="./readingLog/2023.md">2023年阅读记录</a>
 - <a href="./readingLog/2022.md">2022年阅读记录</a>
